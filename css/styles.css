@@ -1,0 +1,16 @@
+/* Tudo */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333 ;
+}
+
+body {
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    /* background-size: cover; */
+}
+
